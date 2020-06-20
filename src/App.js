@@ -1,11 +1,14 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+
+import Titulo from './components/Titulo/index.js';
 
 function App() {
   return (
     <div className="App">
-      <h1>Deus é mais</h1>
+      <Titulo>
+        Meu component tem a cor
+      </Titulo>
     </div>
   );
 }

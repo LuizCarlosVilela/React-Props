@@ -2,12 +2,14 @@
 
 ## Site Aprendizado
 
-Site feito para aprender conceitos importantes na biblioteca ReactJS;
+Site feito para aprender conceitos importantes nas bibliotecas ReactJS, Prop-Types;
 
 ## Usado no Front-end
 
 * ReactJS
 * javaScript
+
+* Prop-Types
 
 ## Criando Projeto com ReactJS
 
